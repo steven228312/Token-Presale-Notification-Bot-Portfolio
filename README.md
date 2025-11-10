@@ -4,9 +4,9 @@
 This project is a Token Presale Notification Bot that monitors blockchain events and sends real-time notifications to Telegram and Discord channels when users purchase tokens using ETH, USDT, USDC, or DAI.
 
 <p align="center">
-  <img src="https://github.com/steven228312/Token-Presale-Notification-Bot-Portfolio/blob/main/public/TGBot.PNG" alt="Telegram Bot Notification" height="400">
+  <img src="https://github.com/imcrazysteven/Token-Presale-Notification-Bot-Portfolio/blob/main/public/TGBot.PNG" alt="Telegram Bot Notification" height="400">
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/steven228312/Token-Presale-Notification-Bot-Portfolio/blob/main/public/DiscordBot.PNG" alt="Discord Bot Notification" height="400">
+  <img src="https://github.com/imcrazysteven/Token-Presale-Notification-Bot-Portfolio/blob/main/public/DiscordBot.PNG" alt="Discord Bot Notification" height="400">
 </p>
 
 ## Features
@@ -67,10 +67,12 @@ The bot processes the following data from blockchain events:
 ## License
 This project is licensed under the [MIT License](./LICENSE).
 
-## Contact Information
+## 📞 Contact & Support
 
-- Gmail: [steven0822.dev@gmail.com](mailto:steven0822.dev@gmail.com)
-- GitHub: [Steven Leal(steven228312)](https://github.com/steven228312)
-- Telegram: [@steven228312](https://t.me/steven228312)
-- Twitter: [@steven228312](https://twitter.com/steven228312)
-- Instagram: [@steven228312](https://www.instagram.com/steven228312/)
+- **Email**: [imcrazysteven143@gmail.com](mailto:imcrazysteven143@gmail.com)
+- **GitHub**: [Steven (@imcrazysteven)](https://github.com/imcrazysteven)
+- **Telegram**: [@imcrazysteven](https://t.me/imcrazysteven)
+- **Twitter**: [@imcrazysteven](https://x.com/imcrazysteven)
+- **Instagram**: [@imcrazysteven](https://www.instagram.com/imcrazysteven/)
+
+---
